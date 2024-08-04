@@ -1,10 +1,10 @@
-# actions-terraform-cloud-create-workspace
+# actions-tfc-create-workspace
 This is a github action to create Workspaces in Terraform Cloud.
 
 ## Usage:
 
 ```YAML
-- uses: Bardavon-Health/actions-terraform-cloud-create-workspace@v1.0
+- uses: ibrt2016/actions-tfc-create-workspace@main
   with:
     token: ${{ secrets.TF_TEAM_TOKEN }}
     name: myWorkspace
