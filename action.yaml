@@ -1,6 +1,5 @@
 name: 'Terraform Cloud Create Workspace'
 description: 'Creates Workspace in Terraform Cloud'
-author: 'Bardavon Health Innovations'
 branding:
   icon: 'cloud'
   color: 'orange'
